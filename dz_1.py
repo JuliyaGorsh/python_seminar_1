@@ -56,7 +56,7 @@ else:
 
 # from random import randint
 # num = randint(0, 1000)
-# print(num)
+# #print(num)  #Загаданное число для проверки работы кода
 # count = 0
 #
 # while count < 10:
